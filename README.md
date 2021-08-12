@@ -1,2 +1,2 @@
 # cpp-journey
-A newbie learning C++
+**A newbie student learning C++**
